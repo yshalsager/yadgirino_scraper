@@ -1,0 +1,46 @@
+{
+    "course": "Lynda - Creating Your First Android App with Kotlin",
+    "author": "Chiu-Ki Chan",
+    "modules": [
+        {
+            "title": "Introduction",
+            "items": {
+                "Welcome": "https://yadgirino.com/course/2983/89758/creating-your-first-android-app-with-kotlin",
+                "What you should know": "https://yadgirino.com/course/2983/89759/creating-your-first-android-app-with-kotlin"
+            }
+        },
+        {
+            "title": "1. Install Android Studio",
+            "items": {
+                "Why Kotlin?": "https://yadgirino.com/course/2983/89760/creating-your-first-android-app-with-kotlin",
+                "Download": "https://yadgirino.com/course/2983/89761/creating-your-first-android-app-with-kotlin",
+                "Start a new project": "https://yadgirino.com/course/2983/89762/creating-your-first-android-app-with-kotlin"
+            }
+        },
+        {
+            "title": "2. Run the App",
+            "items": {
+                "Run on the emulator": "https://yadgirino.com/course/2983/89763/creating-your-first-android-app-with-kotlin",
+                "Run on the physical device": "https://yadgirino.com/course/2983/89764/creating-your-first-android-app-with-kotlin"
+            }
+        },
+        {
+            "title": "3. Understand the App",
+            "items": {
+                "What is an Android app?": "https://yadgirino.com/course/2983/89765/creating-your-first-android-app-with-kotlin",
+                "AndroidManifest.xml": "https://yadgirino.com/course/2983/89766/creating-your-first-android-app-with-kotlin",
+                "Activity": "https://yadgirino.com/course/2983/89767/creating-your-first-android-app-with-kotlin",
+                "Layout": "https://yadgirino.com/course/2983/89768/creating-your-first-android-app-with-kotlin",
+                "String": "https://yadgirino.com/course/2983/89769/creating-your-first-android-app-with-kotlin",
+                "Images": "https://yadgirino.com/course/2983/89770/creating-your-first-android-app-with-kotlin",
+                "Style": "https://yadgirino.com/course/2983/89771/creating-your-first-android-app-with-kotlin"
+            }
+        },
+        {
+            "title": "Conclusion",
+            "items": {
+                "Next steps": "https://yadgirino.com/course/2983/89772/creating-your-first-android-app-with-kotlin"
+            }
+        }
+    ]
+}
